@@ -166,6 +166,7 @@ from .decorators import (
     work_item_docs,
     work_item_relation_docs,
     label_docs,
+    page_docs,
     issue_link_docs,
     issue_comment_docs,
     issue_activity_docs,
